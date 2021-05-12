@@ -5,14 +5,14 @@
 
 ## Table of Contents
 
-- [General Info] (#description)
-- [Technologies] (#technologies)
-- [Features] (#features)
-- [Setup] (#setup)
-- [Usage] (#usage)
-- [Project Status] (#project-status)
-- [Room for Improvement] (#room-for-improvement)
-- [Acknowledgements] (#acknowledgements)
+- [General Info](#general-info)
+- [Technologies](#technologies)
+- [Features](#features)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Project Status](#project-status)
+- [Room for Improvement](#room-for-improvement)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
