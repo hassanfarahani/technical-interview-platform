@@ -139,6 +139,7 @@ export default function Signin(props) {
         }
       )
       .then((res) => {
+        console.log("res in signin page:", res.data);
         setIsAuthenticated(true);
         setUser(res.data);
         if (interviewId) {

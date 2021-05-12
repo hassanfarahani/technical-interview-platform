@@ -1,11 +1,85 @@
-# Express Starter
+# Peer mock technical interview platform
 
-This starter repo will be used for building applications using React, Material-UI, React-Router, Node, & Express.js.
+> A web app that matches programmers together to practice technical interview questions live.
+> Live demo [_here_](https://www.example.com)
 
-## Getting started
+## Table of Contents
+
+- [General Info] (#description)
+- [Technologies] (#technologies)
+- [Features] (#features)
+- [Setup] (#setup)
+- [Usage] (#usage)
+- [Project Status] (#project-status)
+- [Room for Improvement] (#room-for-improvement)
+- [Acknowledgements] (#acknowledgements)
+
+---
+
+## General Information
+
+This application is for programmers who are looking to prepare for technical interviews
+
+## Technologies
+
+- React.js
+- Mongodb
+- Node.js / Express.js
+- Socket.io
+- Material-UI
+
+## Features
+
+- Login/sign up flow with e-mail address
+- Notifications center and upcoming live sessions
+- Live mock technical interview
+- Survey form immediately after interview (questions to ask)
+- Submit a review and rating of your partner after you receive feedback
+
+## Setup
 
 The project is broken down into a client and server folder.
+In the root project directory, run:
 
-## MongoDB
+```
+$ npm install
+```
 
-Enter MongoDB connection string in .env as MONGO_DB_URI
+In the server folder, run:
+
+```
+$ npm run dev
+```
+
+In the client folder, run:
+
+```
+$ npm start
+```
+
+Open http://localhost:3000 to view it in the browser.
+
+## Usage
+
+- Sign on to the platform and create an account
+- sign up for upcoming mock interview events (you can create an interview and share the interview room link with the person you'd like to have interview with)
+- When the interview starts, a question based on the difficulty level you choose for the interview will be shown to all participants in the room (Maximun two persons per room). There is also a code editor and compiler for three languages (JavaScript, Java & Python) that you can use to write your code
+- Feedback portal- after the session (interview) is complete, a short survey (save button) will come up to rate the person you interviewed that will be shared with the other person
+- You can submit feedback (survey form) of your partner & recieves feedback from your partner
+- You can submit a review of your partner’s feedback and experience (Reviews system- provide a review of your partner’s quality of feedback )
+
+## Project Status
+
+Project is: _complete_
+I am no longer working on the project because this project was part of my CO-OP program (one month) with Hatchways Company, which is finished. In the CO-OP program, we were a team of three developers working on the project.
+
+## Room for Improvement
+
+- Adding a profile page so user can input details in his/her profile.
+- We can use user's profile to add a matching system so the application can match people with similar level of skills and language preferences together
+- Adding a video view - you can see your partner in the interview
+
+## Acknowledgements
+
+Many thanks to Hatchway's team specially Bonnie, Jess, John, Sina, and Brandon for their great help during this CO-OP program.
+I'd like to thank my teammates Carlos and Joel for helping me during this program.

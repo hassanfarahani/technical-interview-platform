@@ -12,17 +12,6 @@ export const UserProvider = ({ children }) => {
   const [difficulty, setDifficulty] = useState("");
 
   useEffect(() => {
-    axios
-      .get(`/api/signin/`)
-      .then((res) => {
-        setUser(res.data);
-      })
-      .catch((err) => {
-        console.log(err);
-      });
-  }, [setUser]);
-
-  useEffect(() => {
     const getAllInterviews = async () => {
       const res = await fetch("/api/interview", {
         method: "get",
@@ -35,7 +24,6 @@ export const UserProvider = ({ children }) => {
     };
 
     getAllInterviews();
-    setUser(user);
   }, [user]);
 
   return (
