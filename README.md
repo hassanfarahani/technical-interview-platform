@@ -70,8 +70,8 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Project Status
 
-Project is: _complete_
-I am no longer working on the project because this project was part of my CO-OP program (one month) with Hatchways Company, which is finished. In the CO-OP program, we were a team of three developers working on the project.
+Project is: _in progress_
+In the Hatchways CO-OP program, we are a team of three developers working on the project.
 
 ## Room for Improvement
 
