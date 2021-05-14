@@ -107,7 +107,7 @@ I'd like to thank my teammates Carlos and Joel for helping me during this progra
 - This is the interview page with two participants where users have access to a question with a difficulty level assigned by the owner of the room and its solution
 ![image](https://user-images.githubusercontent.com/48249708/118303754-aae48b80-b49a-11eb-8fbc-007e84f5b43b.png)
 
-- This is the feedback dialogue where both participants can give their feedback about the other participant
+- This is the feedback dialogue where both participants can give their feedback about the other participant & each user can see the feedback of other user on his/her account after the interview is finished
 ![image](https://user-images.githubusercontent.com/48249708/118307839-154bfa80-b4a0-11eb-9ea6-9d16abb2c09e.png)
 ![image](https://user-images.githubusercontent.com/48249708/118308001-47f5f300-b4a0-11eb-9f31-e220f4327454.png)
 ![image](https://user-images.githubusercontent.com/48249708/118308090-64922b00-b4a0-11eb-99b7-f2ff4ac977c6.png)
