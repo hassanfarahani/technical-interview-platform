@@ -89,11 +89,22 @@ Many thanks to Hatchway's team specially Bonnie, Jess, John, Sina, and Brandon f
 I'd like to thank my teammates Carlos and Joel for helping me during this program.
 
 ## Screenshots
+- This is the signup / signin page
+![image](https://user-images.githubusercontent.com/48249708/118306209-ef255b00-b49d-11eb-9d08-498659e0fd53.png)
 
+- This is the dashboard page where user can create an interview and see the list of upcoming interviews- 
 ![image](https://user-images.githubusercontent.com/48249708/118303024-cf8c3380-b499-11eb-8e3e-9a80e196c7b7.png)
+
+- This is create interview dialogue so the user can create an interview (interview owner)
 ![image](https://user-images.githubusercontent.com/48249708/118303278-1ed26400-b49a-11eb-96ad-79f0d69dec62.png)
+
+- Then user redirects to the waiting room dialogue so he can share the interview link with other participant
 ![image](https://user-images.githubusercontent.com/48249708/118303407-445f6d80-b49a-11eb-8db4-01eec4f00299.png)
+
+- This is the page when the guest user paste the interview link (here guest user is logged in). A dialogue pops up and as long as the room owner has not entered the room, the guest user waiting room dialogue is on the page so the guest user cannot enter the room
 ![image](https://user-images.githubusercontent.com/48249708/118303519-648f2c80-b49a-11eb-8f8d-041a82647cb6.png)
+
+
 ![image](https://user-images.githubusercontent.com/48249708/118303754-aae48b80-b49a-11eb-8fbc-007e84f5b43b.png)
 
 
