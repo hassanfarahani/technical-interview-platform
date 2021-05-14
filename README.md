@@ -25,8 +25,12 @@ This application is for programmers who are looking to prepare for technical int
 - React.js
 - Mongodb
 - Node.js / Express.js
+- JWT
+- Passport
+- Bcrypt
 - Socket.io
 - Material-UI
+- react-codemirror2
 
 ## Features
 
