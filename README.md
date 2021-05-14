@@ -95,7 +95,7 @@ I'd like to thank my teammates Carlos and Joel for helping me during this progra
 - This is the dashboard page where user can create an interview and see the list of upcoming interviews- 
 ![image](https://user-images.githubusercontent.com/48249708/118303024-cf8c3380-b499-11eb-8e3e-9a80e196c7b7.png)
 
-- This is create interview dialogue so the user can create an interview (interview owner)
+- This is create interview dialogue so the user can create an interview (interview owner) with a specific difficulty level
 ![image](https://user-images.githubusercontent.com/48249708/118303278-1ed26400-b49a-11eb-96ad-79f0d69dec62.png)
 
 - Then user redirects to the waiting room dialogue so he can share the interview link with other participant
@@ -104,8 +104,21 @@ I'd like to thank my teammates Carlos and Joel for helping me during this progra
 - This is the page when the guest user paste the interview link (here guest user is logged in). A dialogue pops up and as long as the room owner has not entered the room, the guest user waiting room dialogue is on the page so the guest user cannot enter the room
 ![image](https://user-images.githubusercontent.com/48249708/118303519-648f2c80-b49a-11eb-8f8d-041a82647cb6.png)
 
-
+- This is the interview page with two participants where users have access to a question with a difficulty level assigned by the owner of the room and its solution
 ![image](https://user-images.githubusercontent.com/48249708/118303754-aae48b80-b49a-11eb-8fbc-007e84f5b43b.png)
+
+- This is the feedback dialogue where both participants can give their feedback about the other participant
+![image](https://user-images.githubusercontent.com/48249708/118307839-154bfa80-b4a0-11eb-9ea6-9d16abb2c09e.png)
+![image](https://user-images.githubusercontent.com/48249708/118308001-47f5f300-b4a0-11eb-9f31-e220f4327454.png)
+![image](https://user-images.githubusercontent.com/48249708/118308090-64922b00-b4a0-11eb-99b7-f2ff4ac977c6.png)
+![image](https://user-images.githubusercontent.com/48249708/118308183-825f9000-b4a0-11eb-9cd5-2127c3b088a4.png)
+![image](https://user-images.githubusercontent.com/48249708/118308277-9c996e00-b4a0-11eb-9875-2fcb66b60b6f.png)
+![image](https://user-images.githubusercontent.com/48249708/118308313-a7540300-b4a0-11eb-98e1-1fb9598b42ef.png)
+
+
+
+
+
 
 
 
