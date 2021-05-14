@@ -1,7 +1,7 @@
 # Peer mock technical interview platform
 
 > A web app that matches programmers together to practice technical interview questions live.
-> Live demo [_https://technical-interview-platform.herokuapp.com/_]
+> Live demo [_here_](https://technical-interview-platform.herokuapp.com/)
 
 ## Table of Contents
 
