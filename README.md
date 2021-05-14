@@ -13,7 +13,7 @@
 - [Project Status](#project-status)
 - [Room for Improvement](#room-for-improvement)
 - [Acknowledgements](#acknowledgements)
-
+- [Screenshots](#screenshots)
 ---
 
 ## General Information
@@ -87,3 +87,14 @@ In the Hatchways CO-OP program, we are a team of three developers working on the
 
 Many thanks to Hatchway's team specially Bonnie, Jess, John, Sina, and Brandon for their great help during this CO-OP program.
 I'd like to thank my teammates Carlos and Joel for helping me during this program.
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/48249708/118303024-cf8c3380-b499-11eb-8e3e-9a80e196c7b7.png)
+![image](https://user-images.githubusercontent.com/48249708/118303278-1ed26400-b49a-11eb-96ad-79f0d69dec62.png)
+![image](https://user-images.githubusercontent.com/48249708/118303407-445f6d80-b49a-11eb-8db4-01eec4f00299.png)
+![image](https://user-images.githubusercontent.com/48249708/118303519-648f2c80-b49a-11eb-8f8d-041a82647cb6.png)
+![image](https://user-images.githubusercontent.com/48249708/118303754-aae48b80-b49a-11eb-8fbc-007e84f5b43b.png)
+
+
+
+
