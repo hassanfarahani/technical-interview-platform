@@ -89,6 +89,7 @@ Many thanks to Hatchway's team specially Bonnie, Jess, John, Sina, and Brandon f
 I'd like to thank my teammates Carlos and Joel for helping me during this program.
 
 ## Screenshots
+
 ![image](https://user-images.githubusercontent.com/48249708/118303024-cf8c3380-b499-11eb-8e3e-9a80e196c7b7.png)
 ![image](https://user-images.githubusercontent.com/48249708/118303278-1ed26400-b49a-11eb-96ad-79f0d69dec62.png)
 ![image](https://user-images.githubusercontent.com/48249708/118303407-445f6d80-b49a-11eb-8db4-01eec4f00299.png)
